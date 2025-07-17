@@ -6,13 +6,37 @@ This project is a movie browsing application built using **Angular 19**. It was 
 
 ## 🚀 Live Demo
 
-Link – [ITI ICC Training Program](https://iti-angular-movie-app.vercel.app/)()
+Link – [Movie App](https://iti-angular-movie-app.vercel.app/)()
 
 ---
 
 ## 📸 Screenshots
 
   ![Home Page](screenshots/1.png)
+  ![Home Page](screenshots/2.png)
+  ![Home Page](screenshots/3.png)
+
+## 🧠 Features
+
+- Search and browse movies
+- View detailed info for each movie
+- Responsive design with Bootstrap 5
+- Smooth navigation using Angular Router
+- Modern UI with FontAwesome icons
+
+---
+
+## 🛠️ Tech Stack
+
+- **Angular** 19.1.0
+- **Bootstrap** 5.3.3
+- **FontAwesome** 6.7.2
+- **RxJS** 7.8.0
+- **Zone.js** 0.15.0
+
+> Check `package.json` for full dependencies.
+
+---
 
 ## 👥 Our Team
 
@@ -23,3 +47,19 @@ Link – [ITI ICC Training Program](https://iti-angular-movie-app.vercel.app/)()
 | Ahmed Amr     | [@ahmedamr3000](https://github.com/ahmedamr3000)       |
 | Mohamed Eid   | [@Mohamedeid602](https://github.com/Mohamedeid602)     |
 | Omar Abdeen   | [@OmarAbdeen](https://github.com/Test0-VC)             |
+
+
+## 🧩 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/movie-app-angular.git
+
+# Navigate into the project directory
+cd movie-app-angular
+
+# Install dependencies
+npm install
+
+# Run the app
+ng serve
