@@ -6,9 +6,15 @@ This project is a movie browsing application built using **Angular 19**. It was 
 
 ## 🚀 Live Demo
 
-Link – [Movie App](https://iti-angular-movie-app.vercel.app/)()
+Link – [Movie App](https://iti-angular-movie-app.vercel.app/)
 
 ---
+
+## 🔄 Project Origin
+
+This repository is a clean version extracted from the original team repository that contains the full commit history of the collaboration.
+
+👉 [Original Team Repository](https://github.com/malikhussein/ITI-angular-movie-app)
 
 ## 📸 Screenshots
 
