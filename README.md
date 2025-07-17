@@ -12,12 +12,14 @@ Link – [ITI ICC Training Program](https://iti-angular-movie-app.vercel.app/)()
 
 ## 📸 Screenshots
 
-> Add your screenshots inside a folder named `/screenshots` and embed them below:
   ![Home Page](screenshots/1.png)
 
-| Name          | GitHub Profile                               |
-| ------------- | -------------------------------------------- |
-| Mohamed Ahmed | [@mohamedahmed](https://github.com/USERNAME) |
-| Member 2 Name | [@username](https://github.com/username)     |
-| Member 3 Name | [@username](https://github.com/username)     |
-| Member 4 Name | [@username](https://github.com/username)     |
+## 👥 Our Team
+
+| Name          | GitHub Profile                                         |
+| ------------- | ------------------------------------------------------ |
+| Mohamed Ahmed | [@MohamedAhIsmail](https://github.com/MohamedAhIsmail) |
+| Malik Hussein | [@malikhussein](https://github.com/malikhussein)       |
+| Ahmed Amr     | [@ahmedamr3000](https://github.com/ahmedamr3000)       |
+| Mohamed Eid   | [@Mohamedeid602](https://github.com/Mohamedeid602)     |
+| Omar Abdeen   | [@OmarAbdeen](https://github.com/Test0-VC)             |
