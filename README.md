@@ -59,7 +59,7 @@ This repository is a clean version extracted from the original team repository t
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/movie-app-angular.git
+git clone https://github.com/MohamedAhIsmail/movie-app-angular.git
 
 # Navigate into the project directory
 cd movie-app-angular
